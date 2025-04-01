@@ -78,7 +78,7 @@ let transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
     user: 'tantelyodilon8@gmail.com', // Votre adresse email Gmail
-    pass: 'xpyc zdqt nezs tmcw' // Votre mot de passe d'application
+    pass: 'lfre udef rmba lpoc' // Votre mot de passe d'application
   }
 });
 
